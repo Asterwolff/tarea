@@ -1,0 +1,13 @@
+body { background-color: #6a4040; }
+.texto {
+    font-family: Arial, sans-serif;
+    color: #37e906;
+    line-height: 1.5;
+}
+.targeta{
+    background-color: #290e0e;
+    border: 2px solid #571ddf;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
